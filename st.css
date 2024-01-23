@@ -1,0 +1,7 @@
+#main{
+    display: grid;
+}
+.division1{
+    display: flex;
+    padding-bottom: 50px;
+}
